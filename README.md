@@ -1,5 +1,5 @@
 # Python-R-Multi-Omics-packages-tutorial
-Comprehensive list of packages and online tutorials for Multi-Omics and NGS data analysis in both R and Python programming languages.
+This repository provides a comprehensive list of packages and online tutorials for Multi-Omics and NGS data analysis in both R and Python programming languages.
 This list covers a comprehensive set of tutorial, Jupyter, Github online textbooks and repositories that covers the following types of Omics data:
 1-Pathway Enrichment Analysis.
 2-Gene Set Enrichment Analysis.
