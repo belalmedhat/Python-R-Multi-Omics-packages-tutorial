@@ -35,4 +35,4 @@ This list covers a comprehensive set of tutorial, Jupyter, Github online textboo
 
 To access the links go to the file named "Links for online multi-omics textbooks tutorials and packages" in the list of files above.
 
-Soon other types of resoruces like Video tutorials, textbooks, and code tutorials will be added in a separate files.
+Soon other types of resoruces like Video tutorials, textbooks, and code tutorials will be added in separate files.
