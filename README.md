@@ -33,6 +33,6 @@ This list covers a comprehensive set of tutorial, Jupyter, Github online textboo
 27-Exploratory analysis of transcriptomics data in R.
 28-Systems Biology and Biotechnology Specialization.
 
-To access the links go to the file named links in the list of files above.
+To access the links go to the file named "Links for online multi-omics textbooks tutorials and packages" in the list of files above.
 
 Soon other types of resoruces like Video tutorials, textbooks, and code tutorials will be added in a separate files.
